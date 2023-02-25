@@ -24,6 +24,10 @@ body {
   h6 {
     font-family: "Roboto";
   }
+
+  aside{
+    float: left;
+  }
   
   /*--------------------------------------------------------------
   # Back to top button
